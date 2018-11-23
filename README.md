@@ -1,5 +1,7 @@
-# First-test
-just a test
+# 学习cg
 
-learn from scratch
-123
+学习 computer graph 
+从 [Scratchapixel] (http://www.scratchapixel.com/index.php)
+记录一下里面的代码
+
+
