@@ -5,3 +5,12 @@
 记录一下里面的代码
 
 
+## Geomtry
+### Points Vector Normals 
+points -- translate  
+vector -- rotate  
+normal -- a special vector  
+
+
+
+
