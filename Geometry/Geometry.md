@@ -1,2 +1,0 @@
-#Geometry
-##point vector normals
